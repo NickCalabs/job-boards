@@ -70,7 +70,12 @@ For anyone else, not for me :)
 
 ## [Crunch Board](http://www.crunchboard.com/jobs/)
 - job
-
+  
+## [Dataaxy](http://www.dataaxy.com)
+- job
+  
+## [Freel](http://www.freel.ca)
+- Freelancing jobs in Canada
 
 # Agency
 
