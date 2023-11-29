@@ -17,6 +17,9 @@ For anyone else, not for me :)
 ## [We work remotely](https://weworkremotely.com/)
 - remote
 
+## [OkJob](https://okjob.io/)
+- remote, hybrid and on site 4 day week jobs
+
 ## [Hacker News Who 's hiring](https://news.ycombinator.com/item?id=10822019)
 - onsite, sponsor
 
